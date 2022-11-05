@@ -9,6 +9,7 @@ body {
    justify-content: center;
    align-items: center;
    font-family: "Heebo", sans-serif;
+   font-weight: 400;
 }
 h2 {
    font-family: "Nabla", cursive;
@@ -19,7 +20,6 @@ h2 {
 }
 p {
    font-size: 18px;
-   font-weight: 400;
    margin: 20px 0 40px 0;
 }
 #container {
@@ -40,8 +40,8 @@ p {
 }
 #input,
 #btn {
-   padding: 20px;
-   font-size: 16px;
+   padding: 17px;
+   font-size: 18px;
    flex: 1;
 }
 #input {
@@ -53,7 +53,6 @@ p {
    background-color: #000;
    color: #fff;
    text-transform: uppercase;
-   font-weight: 700;
    margin-top: 8px;
    cursor: pointer;
    border: none;
